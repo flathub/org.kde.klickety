@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/libkdegames-18.08.0.tar.xz",
-                    "sha256": "e0bca02674c5e961db17e8225affc689c437ab78eabcd620a1e38ee7b1d583ca"
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
+                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
                 } 
             ]
         },
@@ -42,8 +42,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/klickety-18.08.0.tar.xz",
-                    "sha256": "c023bbc9ce1fa55e66f3c0874b729df739112cf3fdf452444443836deb523dcb"
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/klickety-18.12.0.tar.xz",
+                    "sha256": "d6d318ab21259618cf3f71dd3bd51b82ac1d8a11c7d5b7cdecdd1b68244d7c20"
                 },
                 {
                     "type": "file",
