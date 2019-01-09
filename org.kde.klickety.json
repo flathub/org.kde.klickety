@@ -33,14 +33,7 @@
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/applications/18.12.0/src/klickety-18.12.0.tar.xz",
                     "sha256": "d6d318ab21259618cf3f71dd3bd51b82ac1d8a11c7d5b7cdecdd1b68244d7c20"
-                },
-                {
-                    "type": "file",
-                    "path": "org.kde.klickety.appdata.xml"
                 }
-            ],
-            "post-install": [
-                "install -Dm644 org.kde.klickety.appdata.xml /app/share/appdata/org.kde.klickety.appdata.xml"
             ]
         }
     ]
