@@ -1,12 +1,12 @@
 {
     "id": "org.kde.klickety",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "klickety",
     "rename-icon": "klickety",
     "finish-args": [
-        "--share=ipc", 
+        "--share=ipc",
         "--socket=x11",
         "--socket=wayland",
         "--socket=pulseaudio",
@@ -17,22 +17,22 @@
         {
             "name": "libkdegames",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
-                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
-                } 
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/applications/18.12.1/src/libkdegames-18.12.1.tar.xz",
+                    "sha256": "c5e49027b25adfabb525f26b6f25fca9c2aa54e7a648752bebc0206a5f997a46"
+                }
             ]
         },
         {
             "name": "klickety",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/klickety-18.12.0.tar.xz",
-                    "sha256": "d6d318ab21259618cf3f71dd3bd51b82ac1d8a11c7d5b7cdecdd1b68244d7c20"
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/applications/18.12.1/src/klickety-18.12.1.tar.xz",
+                    "sha256": "fe47f10e7015b2618f0118e8f7f8825cdb51a828a11d2c8f62001f52b78b5b92"
                 }
             ]
         }
