@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/20.12.1/src/libkdegames-20.12.1.tar.xz",
-                    "sha256": "cf9e09a7248038b60d60a0b7db394963b9294a704fad32946e5eca8ed224c4ff"
+                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/libkdegames-20.12.2.tar.xz",
+                    "sha256": "19d93fe25f1ea5173d5130b2d270038b26e6cc6f09238724f330d05fbe019439"
                 }
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/20.12.1/src/klickety-20.12.1.tar.xz",
-                    "sha256": "c662f142db924105e173212515b5d5e9cfb0d671931a5c9882cd6a012e40b49e"
+                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/klickety-20.12.2.tar.xz",
+                    "sha256": "e745071b5d12dea89ddd79728c1ee9ed4203a8550c4e2cbb2d89abf3ed32fb35"
                 }
             ]
         }
