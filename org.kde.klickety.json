@@ -32,7 +32,11 @@
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/21.08.0/src/klickety-21.08.0.tar.xz",
                     "sha256": "2fc9e67e12f6e6d6940cd0f2555ea362c7415a8fb1cd93297a1c1a6e2b954a9c"
-                }
+                },
+                {
+                    "type": "patch",
+                    "path": "appdata.patch"
+                }                 
             ]
         }
     ]
