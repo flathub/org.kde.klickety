@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.08.0/src/libkdegames-21.08.0.tar.xz",
-                    "sha256": "2b55f9e2858cfeabfe8d1a8f3772bb0df88f583c65b4a4e3b0dc2a8db6ac7159"
+                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/libkdegames-21.08.1.tar.xz",
+                    "sha256": "51de56a9f714085ceed2d3200852c1e33b7847768336d02524b07ce3f51cdd6d"
                 }
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.08.0/src/klickety-21.08.0.tar.xz",
-                    "sha256": "2fc9e67e12f6e6d6940cd0f2555ea362c7415a8fb1cd93297a1c1a6e2b954a9c"
+                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/klickety-21.08.1.tar.xz",
+                    "sha256": "2c30116df7202dad6f75b9de93e6bb296354043e1c1754d032346c4e17c90d65"
                 },
                 {
                     "type": "patch",
