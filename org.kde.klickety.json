@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.3/src/klickety-23.08.3.tar.xz",
-                    "sha256": "98229707dc3bf724102ad163798944fd8b2a27e00f144a06fb2a5486968a8a4f",
+                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/klickety-23.08.4.tar.xz",
+                    "sha256": "67cce90f550dd428e7a9739aa814d53666304311b711e97f9bdd6c5a93010e6e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
