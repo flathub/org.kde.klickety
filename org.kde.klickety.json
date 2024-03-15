@@ -1,16 +1,16 @@
 {
     "id": "org.kde.klickety",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-23.08",
+    "runtime-version": "6.6",
     "sdk": "org.kde.Sdk",
     "command": "klickety",
     "rename-icon": "klickety",
     "finish-args": [
+        "--device=dri",
         "--share=ipc",
-        "--socket=x11",
-        "--socket=wayland",
+        "--socket=fallback-x11",
         "--socket=pulseaudio",
-        "--device=dri"
+        "--socket=wayland"
     ],
     "modules": [
         {
@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/libkdegames-23.08.5.tar.xz",
-                    "sha256": "0ac583f4327d6003782054a9ee3d51c922bcdf04577a3f7f12b3840cabf2efed",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/libkdegames-24.02.0.tar.xz",
+                    "sha256": "3d113422dc654348b2025de5fe1de256d06a3c55be9c7b104253e25595b2e2b1",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/klickety-23.08.5.tar.xz",
-                    "sha256": "69dc52d78d35659de5cef81f4bdacb2fd5d2625d980449aad0a497c806c89187",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/klickety-24.02.0.tar.xz",
+                    "sha256": "e0588c9924201756e8fe38136706fedf62bc8462d98f648192bd5d7a77e735a8",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
